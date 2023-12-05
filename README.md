@@ -38,4 +38,8 @@
 + Window Builder
 + MySql-Connector-Java
 
+## Screenshots
 
+![App Screenshot](https://github.com/Manu-Tyagi90/Validate-Registration-Form-Java-EE/blob/main/Registration%20Form%2012_2_2023%207_28_08%20PM.png)
+
+![App Screenshot](https://github.com/Manu-Tyagi90/Validate-Registration-Form-Java-EE/blob/main/MySQL%208.1%20Command%20Line%20Client%2012_2_2023%207_30_45%20PM.png)
